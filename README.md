@@ -39,13 +39,8 @@
 <br />
 <br />
 
+<img align="left" alt="GuilaneDENGUIR's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=GuilaneDENGUIR&show_icons=true&hide_border=true" />
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="GuilaneDENGUIR's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=GuilaneDENGUIR&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/DGuilane
