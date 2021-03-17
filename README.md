@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="guilane-denguir.fr" />][website]
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Guilane | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Guilane | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -37,7 +37,7 @@
 <img align="left" alt="GuilaneDENGUIR's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=GuilaneDENGUIR&show_icons=true&hide_border=true" />
 
 
-[website]: https://google.com
+[website]: guilane-denguir.fr
 [twitter]: https://twitter.com/DGuilane
 [instagram]: https://www.instagram.com/guilane_denguir/
 [linkedin]: https://www.linkedin.com/in/guilane-denguir-2164b117a/
